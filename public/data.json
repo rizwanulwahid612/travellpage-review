@@ -1,0 +1,92 @@
+[
+    {
+       
+        "service_id": "04",
+        "title": "Cox Bazar Travel",
+        "img": "https://travelguide.com.bd/wp-content/uploads/2020/09/Coxsbazar-3.jpg",
+        "price/person": "4000.00",
+        "description": "Weather is perfect this time of year in Cox's Bazar to be enjoyable for warm weather travelers. The average high during this season is between 87.4°F (30.8°C) and 79°F (26.1°C). On average, it rains or snows a very small amount: 0 to 1 times per month.It is not only famous for its long natural sandy sea beach, but it is also famous for the amazing hospitality, fresh seafood, marine drive, kutubdia, Moheshkhali Island, and amazing St. Martin's Island. Mainly Cox's Bazar is famous for its longest natural sandy beach in the world.",
+        "facility": [
+            {
+                "name": "Long Beach Hotel Cox's Bazar",
+                "details": "The car parking and the Wi-Fi are always free, so you can stay in touch and come and go as you please. Conveniently situated in the Cox's Bazar part of Cox's Bazar, this property puts you close to attractions and interesting dining options. Don't leave before paying a visit to the famous Cox's Bazar Airport. Rated with 4 stars, this high-quality property provides guests with access to restaurant, hot tub and fitness center on-site."
+            }
+            
+        ]
+    },
+    {
+        
+        "service_id": "05",
+        "title": "Bandarban Teavel",
+        "img": "https://www.travelsolutiondesk.com/wp-content/uploads/2019/11/BANDARBAN.jpg",
+        "price/person": "6000.00",
+        "description": "August- October will be best time to visit Sairu since Bandarban looks more green at that time and you can enjoy magnificent view from anywhere with clouds and mountains. Other than that February-March will be second preference for visiting Sairu and Bandarban.Bandarban is the pious hub of Theravada Buddhism practiced by tribal communities like Marma or Mogh. Here you will find Buddha Dhatu Jadi, the largest Theravada Buddhist Temple of Bangladesh and the second biggest Buddha sculpture in the country. This Buddhist temple is called 'kyang' in the local language.",
+        "facility": [
+            {
+                "name": "Hotel Hill View",
+                "details": "Welcome to Hotel Hill View, your Bandarban “home away from home.” Hotel Hill View aims to make your visit as relaxing and enjoyable as possible, which is why so many guests continue to come back year after year."
+            }
+            
+        ]
+    },
+    {
+       
+        "service_id": "01",
+        "title": "Sylhet Jaflong Travel",
+        "img": "https://porzoton.com/wp-content/uploads/2020/03/Spring-river-and-greenery-became-blurred-due-to-rains.-Jaflong-Sylhet-768x432.jpg",
+        "price/person": "4500.00",
+        "description": "Jaflong is famous for its stone collections and is home of the Khasia tribe. Jaflong is also a scenic spot nearby amidst tea gardens and rare beauty of rolling stones from hills. You can watch Dauki Bazar on hills of Meghalaya & Hanging bridge connected between two hills of Meghalaya, it looks beautiful.",
+        "facility": [
+            {
+                "name": "Hotel Star Pacific",
+                "details": "Guest rooms offer a refrigerator and air conditioning, and Hotel Star Pacific makes getting online easy as free wifi is available.You can also take advantage of some of the amenities offered by the hotel, including a 24 hour front desk, a concierge, and room service. In addition, guests can enjoy a rooftop pool and free breakfast during their visit."
+            }
+            
+        ]
+    },
+    {
+        
+        "service_id": "02",
+        "title": "Comilla Moynamoti Travel",
+        "img": "https://i.ytimg.com/vi/0addJW2p_Aw/maxresdefault.jpg",
+        "price/person": "7000.00",
+        "description": "Maynamati Shalban Bihar is one of the most popular archaeological sites from Bangladesh that is located in Comilla. This site previously was known as Salban Rajar bari, in English which means the house of Shalban’s King. But after the excavation a ground plan of a Buddhist monastery (measuring 550′ x 500′) with 115 monastic cells was exposed. After that it is now popularly known as Salban Vihara or Bihar. A dominant central shrine and its monumental gateway on the north is its special attraction.",
+        "facility": [
+            {
+                "name": "Jatra Grand Castle Hotel",
+                "details": "Located in Comilla, within a 5-minute walk of Asrafpur and 1.4 km of Balarāmpur, Jatra Grand Castle Hotel has accommodations with a restaurant as well as free private parking for guests who drive. This 3-star hotel offers a 24-hour front desk and room service. The hotel has family rooms.All rooms in the hotel are equipped with an electric tea pot. At Jatra Grand Castle Hotel the rooms are equipped with air conditioning and a flat-screen TV."
+            }
+            
+        ]
+    },
+    {
+        
+        "service_id": "03",
+        "title": "Rangamati Travel",
+        "img": "https://www.travelmate.com.bd/wp-content/uploads/2018/07/maxresdefault-2.jpg",
+        "price/person": "7500.00",
+        "description": "During winter, there is less water in the waterfall, but it reclaims its beauty in the monsoon. Those who want to experience natural waterfall can visit the incredible Shuvolong waterfalls in Shuvolong union of Barkal Upazila of Rangamati district.Rangamati is also famous for cashew nut, water melon, Bangla Banana, fresh fishes of Kaptai lake. The district is also known to all for having a hydraulic Power Plant at Kaptai and Terrestrial Earth Satellite at Betbunia, Kawkhli.",
+        "facility": [
+            {
+                "name": "Hotel Prince",
+                "details": "Located in Rāngāmāti, 1 km from Rāngāmāti, Hotel Prince features views of the city. The property is around 4.3 km from Manikchari, 12.2 km from Sukarchari and 16.1 km from Taimidong. The hotel has family rooms.All rooms at the hotel come with a flat-screen TV and a safety deposit box. At Hotel Prince the rooms come with bed linen and towels.Staff at the accommodation are available to give information at the 24-hour front desk."
+            }
+            
+        ]
+    },
+    {
+      
+        "service_id": "06",
+        "title": "Khulna Sundarban Travel",
+        "img": "https://dynamic.tourtravelworld.com/package-images/photo-big/dir_35/1031084/335507.jpg",
+        "price/person": "5000.00",
+        "description": "Take Wishes and congratulations from us. Sundarban Wonders Tourism is a trustable name for Sundarban tour in Bangladesh. For many years, large number of local and foreign tourist visit Sundarban with us. Besides, we operate many reputable official group tours in Bangladesh. We operate our tour with a experienced guide team whose are trained by forest department, own ship and experienced crew for Sundarban. And also a team of arms guard whose are provided by forest department. We can ensure you about our service fully. For this we can say we are the trusted tour partner for you.",
+        "facility": [
+            {
+                "name": "Tiger Garden Int Hotel Khulna",
+                "details": "Consider a stay at Tiger Garden Int Hotel Khulna and take advantage of a free breakfast buffet, a roundtrip airport shuttle, and a terrace. For some rest and relaxation, visit the sauna or steam room, and indulge in a massage.Be sure to enjoy a meal at the onsite international cuisine restaurant."
+            }
+            
+        ]
+    }
+]
